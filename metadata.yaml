@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '4904'
     url: http://www.gutenberg.org/2009/agents/4904
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Lewisohn
+covers:
+- cover_type: archival
+  image_path: 53530-h/images/cover.jpg
 creator:
   author:
     agent_name: Culbertson, Ernest Howard
     gutenberg_agent_id: '47414'
     url: http://www.gutenberg.org/2009/agents/47414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53530#Goat-Alley-A-Tragedy-of-Negro-Life
 gutenberg_issued: '2016-11-14'
 gutenberg_type: Text
 identifiers:
